@@ -1,0 +1,6 @@
+Review_ID,Review_Text
+1,"The product is great and works perfectly."
+2,"Great product with excellent features."
+3,"The product does not work well."
+4,"I am very satisfied with the product."
+5,"The features of this product are amazing."

@@ -1,0 +1,1 @@
+streamlit run "C:\Users\macha\OneDrive\Desktop\NEW PROJECT\Multiple_disease_prediction_app.py"
